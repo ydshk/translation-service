@@ -1,0 +1,11 @@
+{
+  "total_chars": 79044,
+  "api_calls": 343,
+  "cache_hits": 86,
+  "monthly": {
+    "2026-09": {
+      "chars": 79044,
+      "calls": 343
+    }
+  }
+}
