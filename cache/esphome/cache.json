@@ -208,5 +208,105 @@
     "source": "XPLHX0XPLHXESPHome Device Builder (Development XPLHX1XPLHX)",
     "api_result": "XPLHX0XPLHXESP 家庭设备构建器（开发版 XPLHX1XPLHX）",
     "ts": "2026-09-17T06:01:43.796755+00:00"
+  },
+  "a09a8995aee422fd1f2ef49dbff3d5ef4dcf7f347ce28903c1734b4f5146e550": {
+    "source": "XPLHX7XPLHXXPLHX2XPLHX XPLHX3XPLHXXPLHX0XPLHXXPLHX4XPLHX XPLHX5XPLHXXPLHX1XPLHXXPLHX6XPLHX",
+    "api_result": "XPLHX7XPLHXXPLHX2XPLHX XPLHX3XPLHXXPLHX0XPLHXXPLHX4XPLHX XPLHX5XPLHXXPLHX1XPLHXXPLHX6XPLHX",
+    "ts": "2026-09-17T06:37:31.472721+00:00"
+  },
+  "5baf8c2b47e4aee54feaf9ee6798e109e32bf38a5be0584018b86881395f312b": {
+    "source": "XPLHX4XPLHX\n    XPLHX5XPLHX\n    XPLHX6XPLHX\n  XPLHX7XPLHX\nXPLHX8XPLHX",
+    "api_result": "XPLHX4XPLHX\n    XPLHX5XPLHX\n    XPLHX6XPLHX\n  XPLHX7XPLHX\nXPLHX8XPLHX",
+    "ts": "2026-09-17T06:37:32.531158+00:00"
+  },
+  "d0741c74f310052eff3e6be049051f5157705f1f13283f9236d962796f34d443": {
+    "source": "This is the XPLHX0XPLHX App repository for XPLHX1XPLHX. For the XPLHX1XPLHX source please go to XPLHX2XPLHXesphomeXPLHX3XPLHX.",
+    "api_result": "这是 XPLHX0XPLHX 应用程序存储库，适用于 XPLHX1XPLHX。如需 XPLHX1XPLHX 的源代码，请访问 XPLHX2XPLHXesphomeXPLHX3XPLHX。",
+    "ts": "2026-09-17T06:37:33.620050+00:00"
+  },
+  "1fbec8f8225599362cad8a4bc5e6072f8819e7d012c4e731804ceafd55d4abac": {
+    "source": "XPLHX1XPLHXXPLHX0XPLHX App\nXPLHX2XPLHXInstallation",
+    "api_result": "XPLHX1XPLHXXPLHX0XPLHX 应用程序\nXPLHX2XPLHX安装",
+    "ts": "2026-09-17T06:37:34.637925+00:00"
+  },
+  "311c610796bc7abaff625aa639bbe7bc2f89ab0499f7953102f0f455c7884bca": {
+    "source": "1. Search for the \"XPLHX1XPLHX\" App in the Supervisor App store.\n2. Press install to download the App and unpack it on your machine. This can take some time.\n3. Start the App, check the XPLHX2XPLHX of",
+    "api_result": "1. 在Supervisor应用商店中搜索“XPLHX1XPLHX”应用。\n2. 点击“安装”以下载该应用，并将其解压到您的机器上。此过程可能需要一些时间。\n3. 启动该应用，检查应用的XPLHX2XPLHX状态，确认一切是否正常。\n4. 点击“打开 Web UI”以打开 XPLHX1XPLHX 仪表盘。系统将提示您输入 XPLHX0XPLHX 的凭据——XPLHX1XPLHX 使用 XPLHX0XPLHX 的身份验证系统为您登录。",
+    "ts": "2026-09-17T06:37:35.920704+00:00"
+  },
+  "3fa645e37b50dc88ab35bc8440ebb38d46d1063008f890ab4614e32543b32128": {
+    "source": "You can view the XPLHX0XPLHX documentation at XPLHX1XPLHX",
+    "api_result": "您可以在 XPLHX1XPLHX 处查看 XPLHX0XPLHX 的文档。",
+    "ts": "2026-09-17T06:37:36.870174+00:00"
+  },
+  "e568d70589c7728a9da3c059e884bc56d311bf5a08c4246ad3d3c07a94513462": {
+    "source": "XPLHX1XPLHXXPLHX0XPLHX Device Builder",
+    "api_result": "XPLHX1XPLHXXPLHX0XPLHX 设备构建器",
+    "ts": "2026-09-17T06:37:37.812915+00:00"
+  },
+  "c12f2516033a4738ce09e11d14f4cb60ba2a53cd5991757040bb0d8492f3ae31": {
+    "source": "This App allows you to write configurations and turn your microcontrollers\ninto smart home devices directly through XPLHX0XPLHX XPLHX2XPLHXwith no programming experience requiredXPLHX3XPLHX.\nAll you n",
+    "api_result": "通过这款应用，您可以编写配置文件，并直接将微控制器\n转变为智能家居设备，无需任何编程经验。\n您只需编写 YAML 配置文件；其余工作（空中更新、编译）均由\nXPLHX1XPLHX 自动处理。",
+    "ts": "2026-09-17T06:37:38.849977+00:00"
+  },
+  "b896093aa7e8acb7a78bfe40e6a57461b00f6c5ed67873b46a473749e029364a": {
+    "source": "XPLHX2XPLHX\nXPLHX3XPLHXXPLHX4XPLHX\nXPLHX5XPLHX",
+    "api_result": "XPLHX2XPLHX\nXPLHX3XPLHXXPLHX4XPLHX\nXPLHX5XPLHX",
+    "ts": "2026-09-17T06:37:39.999707+00:00"
+  },
+  "8bf4c6a4c437d5173c967fdf33e3bb895ba2b28612f7863fb608e0dc8a7ffcde": {
+    "source": "XPLHX1XPLHXView the XPLHX0XPLHX documentationXPLHX2XPLHX",
+    "api_result": "XPLHX1XPLHX查看 XPLHX0XPLHX 文档XPLHX2XPLHX",
+    "ts": "2026-09-17T06:37:40.906236+00:00"
+  },
+  "512285d54f3d91d1e48f0031d84128dfc692f8779b5d5cde62c60fd2c635c85e": {
+    "source": "With XPLHX0XPLHX, you can go from a few lines of YAML straight to a custom-made\nfirmware. For example, to include a XPLHX1XPLHXDHT22XPLHX2XPLHX\ntemperature and humidity sensor, you just need to includ",
+    "api_result": "借助 XPLHX0XPLHX，您只需几行 YAML 代码，即可直接生成一份量身定制的\n固件。 例如，要集成一个 XPLHX1XPLHXDHT22XPLHX2XPLHX\n温湿度传感器，您只需在配置文件中添加 8 行 YAML\n代码即可：",
+    "ts": "2026-09-17T06:37:41.988879+00:00"
+  },
+  "b8652128b92e8351a3247e721fad0b35adb3a4e30450cec84c81a8073a61e984": {
+    "source": "XPLHX3XPLHXXPLHX4XPLHX",
+    "api_result": "XPLHX3XPLHXXPLHX4XPLHX",
+    "ts": "2026-09-17T06:37:42.901170+00:00"
+  },
+  "33dcca5498fb8b64f7307bca32c7e98adb32f9d013ba75c2d6894ef99f8b4626": {
+    "source": "XPLHX1XPLHXXPLHX0XPLHX Device Builder Beta",
+    "api_result": "XPLHX1XPLHXXPLHX0XPLHX 设备构建器 Beta 版",
+    "ts": "2026-09-17T06:37:43.797215+00:00"
+  },
+  "0232dfbf5c76b79da26a6fbca163bd3d610649ef7d06a480237ff5d831b19c74": {
+    "source": "XPLHX1XPLHXXPLHX0XPLHX DEV App",
+    "api_result": "XPLHX1XPLHXXPLHX0XPLHX 开发应用",
+    "ts": "2026-09-17T06:37:44.698053+00:00"
+  },
+  "a4311232c322dabe790a6df6b4c1d80355213bbcbf21c7d45ec61c1716f86c1a": {
+    "source": "This is XPLHX1XPLHXdevelopmentXPLHX2XPLHX XPLHX3XPLHX of the XPLHX0XPLHX App.",
+    "api_result": "这是 XPLHX0XPLHX 应用程序的 XPLHX1XPLHX 开发版 XPLHX2XPLHX XPLHX3XPLHX。",
+    "ts": "2026-09-17T06:37:45.749817+00:00"
+  },
+  "651c04b26b6e3da9d7e60b6d6d3b64b119add85fcb598e0a8889bea1fbe0449d": {
+    "source": "The App uses a XPLHX2XPLHX of XPLHX1XPLHX built automatically every day at 02:00 UTC. and is used to test components in development. See the XPLHX0XPLHX configuration below to properly configure the A",
+    "api_result": "该应用使用 XPLHX2XPLHX 版本的 XPLHX1XPLHX，该版本每天 UTC 时间 02:00 自动构建，用于测试开发中的组件。 请参阅下方的 XPLHX0XPLHX 配置，以正确配置该应用。更新配置后，请务必重新构建镜像。",
+    "ts": "2026-09-17T06:37:46.861280+00:00"
+  },
+  "f2f8eee56d150a43ca3bfff990a446998e8c035644d1e3b6ac9270c635d29920": {
+    "source": "Install XPLHX4XPLHX from a XPLHX8XPLHX or XPLHX6XPLHX.\nFor example to test a XPLHX5XPLHX, use XPLHX0XPLHX where XPLHX1XPLHX is the PR number,\nor you can specify the username of the XPLHX9XPLHX owner a",
+    "api_result": "从 XPLHX8XPLHX 或 XPLHX6XPLHX 安装 XPLHX4XPLHX。\n例如，要测试 XPLHX5XPLHX，请使用 XPLHX0XPLHX（其中 XPLHX1XPLHX 是 PR 编号），\n或者您可以指定 XPLHX9XPLHX 所有者的用户名以及 XPLHX7XPLHX XPLHX2XPLHX，这\n假设该存储库仍命名为 XPLHX3XPLHX。",
+    "ts": "2026-09-17T06:37:48.032971+00:00"
+  },
+  "ddf37ba492455be702a7506afc5a157bbb0f84a342048c043243b788fe1c684a": {
+    "source": "Please XPLHX7XPLHX that the XPLHX6XPLHX or XPLHX5XPLHX you are using XPLHX1XPLHXmustXPLHX2XPLHX be up to date with XPLHX0XPLHX dev\nor the App XPLHX3XPLHXwill not startXPLHX4XPLHX.",
+    "api_result": "请注意，您正在使用的 XPLHX6XPLHX 或 XPLHX5XPLHX 必须与 XPLHX0XPLHX 开发版保持同步\n，否则该应用程序 XPLHX3XPLHX 将无法启动 XPLHX4XPLHX。",
+    "ts": "2026-09-17T06:37:48.999970+00:00"
+  },
+  "2649a9d5cac8d45aae56c938548631cd32c20d621826b17fbe07f03643ac6973": {
+    "source": "XPLHX1XPLHXGeneral XPLHX0XPLHX App configurations",
+    "api_result": "XPLHX1XPLHX通用 XPLHX0XPLHX 应用程序配置",
+    "ts": "2026-09-17T06:37:50.049351+00:00"
+  },
+  "18e5cef2845c6101afc5d8e956bae11b67cbbd7c83f2fd385367cd490b0f8cc1": {
+    "source": "XPLHX1XPLHXXPLHX0XPLHX Device Builder (Development XPLHX2XPLHX)",
+    "api_result": "XPLHX1XPLHXXPLHX0XPLHX 设备构建器（开发版 XPLHX2XPLHX）",
+    "ts": "2026-09-17T06:37:51.073096+00:00"
   }
 }

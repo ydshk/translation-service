@@ -1,11 +1,11 @@
 {
-  "total_chars": 3693,
-  "api_calls": 42,
-  "cache_hits": 164,
+  "total_chars": 6220,
+  "api_calls": 62,
+  "cache_hits": 247,
   "monthly": {
     "2026-09": {
-      "chars": 3693,
-      "calls": 42
+      "chars": 6220,
+      "calls": 62
     }
   }
 }
