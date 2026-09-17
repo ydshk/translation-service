@@ -1,0 +1,212 @@
+{
+  "2f2fc4511b9dee7186f075ea2ee39a98d3044e792cad72f4baee87084d190b96": {
+    "source": "XPLHX6XPLHXESPHome XPLHX2XPLHXXPLHX0XPLHXXPLHX3XPLHX XPLHX4XPLHXXPLHX1XPLHXXPLHX5XPLHX",
+    "api_result": "XPLHX6XPLHXESP首页 XPLHX2XPLHXXPLHX0XPLHXXPLHX3XPLHX XPLHX4XPLHXXPLHX1XPLHXXPLHX5XPLHX",
+    "ts": "2026-09-17T06:01:03.509643+00:00"
+  },
+  "4fa322c35497822c47e2fc7fa1eafe7891afb7c9707b94db6c4e6a44609b5986": {
+    "source": "XPLHX3XPLHX\n    XPLHX4XPLHX\n    XPLHX5XPLHX\n  XPLHX6XPLHX\nXPLHX7XPLHX",
+    "api_result": "XPLHX3XPLHX\n    XPLHX4XPLHX\n    XPLHX5XPLHX\n  XPLHX6XPLHX\nXPLHX7XPLHX",
+    "ts": "2026-09-17T06:01:04.553944+00:00"
+  },
+  "b7c5d8c44f50eef4c0502a3bfef203efdf09da5962d477c1fd6525be2f117081": {
+    "source": "This is the XPLHX0XPLHX App repository for ESPHome. For the ESPHome source please go to XPLHX1XPLHXesphomeXPLHX2XPLHX.",
+    "api_result": "这是 ESPHome 的 XPLHX0XPLHX 应用仓库。如需获取 ESPHome 源代码，请访问 XPLHX1XPLHXesphomeXPLHX2XPLHX。",
+    "ts": "2026-09-17T06:01:05.597874+00:00"
+  },
+  "87428bf89af63a3c454e07e243876a1a6cf38c2c698e772416a1a6920bd2fc90": {
+    "source": "XPLHX1XPLHXDocumentation:XPLHX2XPLHX XPLHX0XPLHX",
+    "api_result": "XPLHX1XPLHX文档：XPLHX2XPLHX XPLHX0XPLHX",
+    "ts": "2026-09-17T06:01:06.508748+00:00"
+  },
+  "f8290e68abc3a0f513f88f9bd53db57150de2b1a4c02d37cbc27c8bf1b02dd08": {
+    "source": "For XPLHX2XPLHX, please go to XPLHX0XPLHXthe issue trackerXPLHX1XPLHX.",
+    "api_result": "关于 XPLHX2XPLHX 的问题，请访问 XPLHX0XPLHX 问题跟踪器 XPLHX1XPLHX。",
+    "ts": "2026-09-17T06:01:07.485478+00:00"
+  },
+  "e473f73bfed4e7a4d23be2cf35598e5d880163271e18f4e070463b645c2af2e4": {
+    "source": "For feature requests, please see XPLHX0XPLHXfeature requestsXPLHX1XPLHX.",
+    "api_result": "如需提出功能请求，请参阅 XPLHX0XPLHX功能请求XPLHX1XPLHX。",
+    "ts": "2026-09-17T06:01:08.427296+00:00"
+  },
+  "2fb1519559e8011e6f5b2a44b13cc52501495a0f4d1e4dc0843ce239e8918081": {
+    "source": "XPLHX0XPLHX2026.9.0",
+    "api_result": "XPLHX0XPLHX2026.9.0",
+    "ts": "2026-09-17T06:01:09.347658+00:00"
+  },
+  "bcb8491015826760c65feed4f3e03060e94dee79701f6d4c0da67e364c9effa2": {
+    "source": "XPLHX0XPLHXXPLHX2XPLHXRead release announcementXPLHX3XPLHXXPLHX1XPLHX",
+    "api_result": "XPLHX0XPLHXXPLHX2XPLHX阅读发布公告XPLHX3XPLHXXPLHX1XPLHX",
+    "ts": "2026-09-17T06:01:10.288121+00:00"
+  },
+  "4d9fe45925a36d1ff53d48a6234b79f9a5ce97e7bb6c048681a9335c8e4350e2": {
+    "source": "XPLHX0XPLHX",
+    "api_result": "XPLHX0XPLHX",
+    "ts": "2026-09-17T06:01:11.131527+00:00"
+  },
+  "038a4340ce92efcb5601b06dad6b7fb369a06bdf6fa607f442368ca93fd59e82": {
+    "source": "XPLHX0XPLHXESPHome App\nXPLHX1XPLHXInstallation",
+    "api_result": "XPLHX0XPLHXESPHome 应用\nXPLHX1XPLHX安装",
+    "ts": "2026-09-17T06:01:12.116487+00:00"
+  },
+  "7ed4e0531c22591446aad7cdca98edbc50fe1c3b58b78507c156e01fde7a665e": {
+    "source": "The installation of this App is pretty straightforward and not different in comparison to installing any other XPLHX0XPLHX App.",
+    "api_result": "这款应用的安装过程非常简单，与安装其他任何 XPLHX0XPLHX 应用并无二致。",
+    "ts": "2026-09-17T06:01:13.036005+00:00"
+  },
+  "9c18bc42850772f17f6c66d53d847251f15029ddaf347dcd3d7d58ebf77d4d0c": {
+    "source": "1. Search for the \"ESPHome\" App in the Supervisor App store.\n2. Press install to download the App and unpack it on your machine. This can take some time.\n3. Start the App, check the XPLHX1XPLHX of the",
+    "api_result": "1. 在Supervisor应用商店中搜索“ESPHome”应用。\n2. 点击“安装”以下载应用并在设备上解压。此过程可能需要一些时间。\n3. 启动应用，检查应用中的XPLHX1XPLHX，确认一切是否正常。\n4. 点击“OPEN WEB UI”以打开 ESPHome 仪表盘。系统将提示您输入 XPLHX0XPLHX 的登录凭据——ESPHome 使用 XPLHX0XPLHX 的身份验证系统进行登录。",
+    "ts": "2026-09-17T06:01:14.160452+00:00"
+  },
+  "fc3f00254949db74ebe13d6acb751b3e627d9b060b88b06aceb4a308c2ccb653": {
+    "source": "You can view the ESPHome documentation at XPLHX0XPLHX",
+    "api_result": "您可以在 XPLHX0XPLHX 上查看 ESPHome 文档",
+    "ts": "2026-09-17T06:01:15.012029+00:00"
+  },
+  "3afe34826f5bc9c9f27906ece171667f10f5b3419b2fb2672b4c1168bc6f0cec": {
+    "source": "XPLHX0XPLHXConfiguration",
+    "api_result": "XPLHX0XPLHX配置",
+    "ts": "2026-09-17T06:01:15.845809+00:00"
+  },
+  "e21d07c956de923032ddc14dbce0d1680ad321f2d97224a7df6a4f1477f0ee93": {
+    "source": "XPLHX0XPLHXXPLHX2XPLHXXPLHX1XPLHX: _Remember to restart the App when the configuration is changed._",
+    "api_result": "XPLHX0XPLHXXPLHX2XPLHXXPLHX1XPLHX：_配置更改后，请记得重启应用。_",
+    "ts": "2026-09-17T06:01:16.849554+00:00"
+  },
+  "8ba4def7d9db517dc856274894b50cfbe12f28ca53ca6cfdd8fe82057a6d9fbe": {
+    "source": "XPLHX1XPLHXOption: XPLHX0XPLHX",
+    "api_result": "XPLHX1XPLHX选项：XPLHX0XPLHX",
+    "ts": "2026-09-17T06:01:17.736048+00:00"
+  },
+  "1ea972292ab25075e2b4d0d4649a08ac4896f9cb368b92c0100f3bf2b83f2c81": {
+    "source": "Adding this option to the App configuration allows you to disable\nauthentication by setting it to XPLHX0XPLHX.",
+    "api_result": "在应用程序配置中添加此选项后，您可以通过将其设置为 XPLHX0XPLHX\n来禁用身份验证。",
+    "ts": "2026-09-17T06:01:18.707650+00:00"
+  },
+  "7d24d614fdb648cc285849f999682b3af6446651a986a9e337b915b1c226c2bc": {
+    "source": "XPLHX0XPLHXESPHome Device Builder",
+    "api_result": "XPLHX0XPLHXESP首页 设备构建器",
+    "ts": "2026-09-17T06:01:19.590701+00:00"
+  },
+  "9fd632de9b5ce8a904a9e55a27ca06c1bc318a7d7123a15d42875544093db657": {
+    "source": "XPLHX1XPLHXXPLHX0XPLHXXPLHX2XPLHX",
+    "api_result": "XPLHX1XPLHXXPLHX0XPLHXXPLHX2XPLHX",
+    "ts": "2026-09-17T06:01:20.482684+00:00"
+  },
+  "516ea269a0ae630a7e91f485f99dc418fb5aafd9b7c4374ee25383c3aaa5b7b8": {
+    "source": "XPLHX2XPLHXXPLHX0XPLHXXPLHX3XPLHX\nXPLHX4XPLHXXPLHX1XPLHXXPLHX5XPLHX",
+    "api_result": "XPLHX2XPLHXXPLHX0XPLHXXPLHX3XPLHX\nXPLHX4XPLHXXPLHX1XPLHXXPLHX5XPLHX",
+    "ts": "2026-09-17T06:01:21.520814+00:00"
+  },
+  "13cf3776b35086b66f686e26804e712591456913304da0738deda54fb8308dc2": {
+    "source": "XPLHX0XPLHXAbout",
+    "api_result": "XPLHX0XPLHX关于",
+    "ts": "2026-09-17T06:01:22.399631+00:00"
+  },
+  "317b011472b6a896c32935d52792c1c82c3134c202c1d4d6c1f746b2db8bddaa": {
+    "source": "This App allows you to write configurations and turn your microcontrollers\ninto smart home devices directly through XPLHX0XPLHX XPLHX1XPLHXwith no programming experience requiredXPLHX2XPLHX.\nAll you n",
+    "api_result": "通过这款应用，您可以编写配置文件，并直接将微控制器\n转变为智能家居设备，XPLHX0XPLHX XPLHX1XPLHX无需任何编程经验XPLHX2XPLHX。\n您只需编写 YAML 配置文件；其余工作（空中更新、编译）均由\nESPHome 自动处理。",
+    "ts": "2026-09-17T06:01:23.618195+00:00"
+  },
+  "52aeaa34989a686cb474124273ee328c0fe0553dbc2c0e518466da8427f5b680": {
+    "source": "XPLHX1XPLHX\nXPLHX2XPLHXXPLHX3XPLHX\nXPLHX4XPLHX",
+    "api_result": "XPLHX1XPLHX\nXPLHX2XPLHXXPLHX3XPLHX\nXPLHX4XPLHX",
+    "ts": "2026-09-17T06:01:24.558496+00:00"
+  },
+  "229fd0fc5e8d462c3c4e7c29248ec3687b846e9bdb826f9655a7229f178dfcfa": {
+    "source": "XPLHX0XPLHXView the ESPHome documentationXPLHX1XPLHX",
+    "api_result": "XPLHX0XPLHX查看 ESPHome 文档XPLHX1XPLHX",
+    "ts": "2026-09-17T06:01:25.571565+00:00"
+  },
+  "5c84d5554977c4c3c115541204c4437dc57b50c70161d101052619b239ca19b3": {
+    "source": "XPLHX0XPLHXExample",
+    "api_result": "XPLHX0XPLHX示例",
+    "ts": "2026-09-17T06:01:26.452441+00:00"
+  },
+  "9dc345fa58858b292d44f9fcca8039a395f42addfb05b8d4aaf67a1c16d60efa": {
+    "source": "With ESPHome, you can go from a few lines of YAML straight to a custom-made\nfirmware. For example, to include a XPLHX0XPLHXDHT22XPLHX1XPLHX\ntemperature and humidity sensor, you just need to include 8 ",
+    "api_result": "借助 ESPHome，只需几行 YAML 代码，即可直接生成定制的\n固件。例如，要集成一个 XPLHX0XPLHXDHT22XPLHX1XPLHX\n温湿度传感器，您只需在配置文件中添加 8 行 YAML\n代码即可：",
+    "ts": "2026-09-17T06:01:27.689880+00:00"
+  },
+  "d1dbc05f2a3b18582df80a37045f4f414980f7f0238239285a82e3f927cb09d0": {
+    "source": "XPLHX1XPLHXXPLHX2XPLHX",
+    "api_result": "XPLHX1XPLHXXPLHX2XPLHX",
+    "ts": "2026-09-17T06:01:28.619667+00:00"
+  },
+  "d0237e9fae962fd0ce6de5630831acd1ba2602a85420b8ab6ac2186c1dc53666": {
+    "source": "Then just click UPLOAD and the sensor will magically appear in XPLHX0XPLHX:",
+    "api_result": "然后只需点击“上传”，传感器就会神奇地出现在 XPLHX0XPLHX 中：",
+    "ts": "2026-09-17T06:01:29.716560+00:00"
+  },
+  "d787bc7f2608f484e9b6d97cfc77184f22410cbc0971362df6d119fd97bc05fb": {
+    "source": "XPLHX2XPLHXXPLHX3XPLHX",
+    "api_result": "XPLHX2XPLHXXPLHX3XPLHX",
+    "ts": "2026-09-17T06:01:30.652621+00:00"
+  },
+  "0188c2c4066206d6844f65e4ba43f73477a7e3293b15ca7d96a47f6168129d1e": {
+    "source": "XPLHX0XPLHX\nXPLHX1XPLHX\nXPLHX2XPLHX\nXPLHX3XPLHX\nXPLHX4XPLHX\nXPLHX5XPLHX\nXPLHX6XPLHX\nXPLHX7XPLHX",
+    "api_result": "XPLHX0XPLHX\nXPLHX1XPLHX\nXPLHX2XPLHX\nXPLHX3XPLHX\nXPLHX4XPLHX\nXPLHX5XPLHX\nXPLHX6XPLHX\nXPLHX7XPLHX",
+    "ts": "2026-09-17T06:01:31.760063+00:00"
+  },
+  "c880e394e05aebb07bc6b29851bd62abbe7a1348afd1c60d5bfee6fa65c43161": {
+    "source": "XPLHX0XPLHXESPHome Device Builder Beta",
+    "api_result": "XPLHX0XPLHXESP 家庭设备构建器测试版",
+    "ts": "2026-09-17T06:01:32.709945+00:00"
+  },
+  "9f5dc2b3d04764fd8fb1b9c5bae5bf153d6c704e23e8c9bd5b0c9e8076d30d58": {
+    "source": "See XPLHX0XPLHX",
+    "api_result": "参见 XPLHX0XPLHX",
+    "ts": "2026-09-17T06:01:33.556778+00:00"
+  },
+  "48353f35702b25307ed5e7e054b0a0496923e78f9ad39204cc2d612ccea852be": {
+    "source": "XPLHX0XPLHXESPHome DEV App",
+    "api_result": "XPLHX0XPLHXESP 家庭开发应用",
+    "ts": "2026-09-17T06:01:34.750322+00:00"
+  },
+  "edfb6983fdbfa6d583e09d3c4bff4bed72e3467397386c087b1af4bd60cb7c2f": {
+    "source": "This is XPLHX0XPLHXdevelopmentXPLHX1XPLHX XPLHX2XPLHX of the ESPHome App.",
+    "api_result": "这是 ESPHome 应用的 XPLHX0XPLHXdevelopmentXPLHX1XPLHX XPLHX2XPLHX 版本。",
+    "ts": "2026-09-17T06:01:35.671617+00:00"
+  },
+  "19c402055650333c8121b2f6378ccc5e99cc1f3aa20f7bf2deb5891726c4a804": {
+    "source": "To deploy production nodes please use mainstream release App.",
+    "api_result": "要部署生产节点，请使用主流版本的App。",
+    "ts": "2026-09-17T06:01:36.520937+00:00"
+  },
+  "449d7001d9105cf4eda52a20490c0c925162e3aa2e80a0dd388d2f8bb4c8ab31": {
+    "source": "The App uses a XPLHX1XPLHX of ESPHome built automatically every day at 02:00 UTC. and is used to test components in development. See the XPLHX0XPLHX configuration below to properly configure the App. ",
+    "api_result": "该应用使用 ESPHome 的 XPLHX1XPLHX 镜像，该镜像每天 UTC 时间 02:00 自动构建，用于测试开发中的组件。请参阅下方的 XPLHX0XPLHX 配置，以正确配置该应用。更新配置后，请务必重新构建镜像。",
+    "ts": "2026-09-17T06:01:37.661913+00:00"
+  },
+  "eca83eb5bfbb39296d9e671a04a339d333468d1adbf52b9586122f8ec5ceee6f": {
+    "source": "Install ESPHome from a XPLHX7XPLHX or XPLHX5XPLHX.\nFor example to test a XPLHX4XPLHX, use XPLHX0XPLHX where XPLHX1XPLHX is the PR number,\nor you can specify the username of the XPLHX8XPLHX owner and X",
+    "api_result": "从 XPLHX7XPLHX 或 XPLHX5XPLHX 安装 ESPHome。\n例如，要测试 XPLHX4XPLHX，请使用 XPLHX0XPLHX（其中 XPLHX1XPLHX 是 PR 编号），\n或者您可以指定 XPLHX8XPLHX 所有者的用户名以及 XPLHX6XPLHX XPLHX2XPLHX，这\n假设仓库名称仍为 XPLHX3XPLHX。",
+    "ts": "2026-09-17T06:01:38.902579+00:00"
+  },
+  "9dd5d2eab54785eccb70edbfcb165d8d2c6742453c3281703b1ba74fc9e324f2": {
+    "source": "If you need to test the latest commit on dev XPLHX1XPLHX before the image is updated you can enter XPLHX0XPLHX here.",
+    "api_result": "如果您需要在镜像更新之前测试开发分支 XPLHX1XPLHX 上的最新提交，可以在这里输入 XPLHX0XPLHX。",
+    "ts": "2026-09-17T06:01:39.973500+00:00"
+  },
+  "16b2b6e3fdba8de78f30c93eaf703a92777fdf22a365fbd6058d0c7cf644c8ec": {
+    "source": "Please XPLHX6XPLHX that the XPLHX5XPLHX or XPLHX4XPLHX you are using XPLHX0XPLHXmustXPLHX1XPLHX be up to date with ESPHome dev\nor the App XPLHX2XPLHXwill not startXPLHX3XPLHX.",
+    "api_result": "请注意，您正在使用的 XPLHX5XPLHX 或 XPLHX4XPLHX 必须与 ESPHome 开发版保持同步\n否则，XPLHX2XPLHX应用将无法启动XPLHX3XPLHX。",
+    "ts": "2026-09-17T06:01:40.931730+00:00"
+  },
+  "e730553a31346b04eda0f4e6aefa64b68088d57868c293544b4abb555b88bb09": {
+    "source": "XPLHX0XPLHXGeneral ESPHome App configurations",
+    "api_result": "XPLHX0XPLHX ESPHome 应用的一般设置",
+    "ts": "2026-09-17T06:01:41.881476+00:00"
+  },
+  "1476e0a339eb00dab386d0bcc0be8a72481a3038c1786716aa5d1223fbac004d": {
+    "source": "General options also available in other versions.",
+    "api_result": "其他版本中也提供了通用选项。",
+    "ts": "2026-09-17T06:01:42.735864+00:00"
+  },
+  "a70211db043146da98531b9463f2cba79c806700dcd90da847f45c578ae3e7af": {
+    "source": "XPLHX0XPLHXESPHome Device Builder (Development XPLHX1XPLHX)",
+    "api_result": "XPLHX0XPLHXESP 家庭设备构建器（开发版 XPLHX1XPLHX）",
+    "ts": "2026-09-17T06:01:43.796755+00:00"
+  }
+}
