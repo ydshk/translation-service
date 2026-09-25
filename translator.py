@@ -46,8 +46,8 @@ def call_deepl_api(text, api_key):
 
     if resp.status_code != 200:
         msg = f"DeepL API HTTP {resp.status_code}: {resp.text[:200]}"
-        print(f"::warning::{msg}")
-        return text, 0
+        print(f"::error::{msg}")
+        raise Exception(msg)
 
     result = resp.json()
     if "translations" not in result or not result["translations"]:
